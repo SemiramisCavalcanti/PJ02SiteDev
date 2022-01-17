@@ -1,0 +1,20 @@
+/* Tabela de Cores Site
+    #ffb4a2 (mais claro)
+    #e5989b (tom sobre tom / claro)
+    #582c4d (mais escuro) */
+
+body {
+    background-color: #582c4d;
+}
+
+.menuprincipal {
+    background-color: #e5989b;
+    width: 800px;
+    height: 100px;
+}
+
+.redessociais {
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
