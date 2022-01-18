@@ -12,10 +12,10 @@
             <!-- Coluna Partes/Paginas -->
             <div class="col-6">
                 <div class="row">
-                    <div class="col">Serviços</div>
-                    <div class="col">Portifólio</div>
-                    <div class="col">Sobre</div>
-                    <div class="col">Contato</div>
+                    <div class="col letrasmenu mt-5"> <h4>Serviços</h4> </div>
+                    <div class="col letrasmenu mt-5"> <h4>Portifólio</h4> </div>
+                    <div class="col letrasmenu mt-5"> <h4>Sobre</h4> </div>
+                    <div class="col letrasmenu mt-5"> <h4>Contato</h4> </div>
                 </div>
             </div>
             <!-- Fim Coluna Partes/Paginas -->
