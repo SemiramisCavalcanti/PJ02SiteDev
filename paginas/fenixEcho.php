@@ -39,6 +39,7 @@
 
 <!-- Corpo Site -->
 <div class="container">
+    <img src="http://placehold.it/1000x200" alt="" class="my-3">
 
     <!-- Linha Serviços -->
 
