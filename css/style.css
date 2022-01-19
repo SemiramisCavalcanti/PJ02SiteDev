@@ -35,3 +35,10 @@ footer {
     background-color: #e5989b;
     height: 100px;
 }
+
+.linhaVertical {
+    background-color: #e5989b;
+    width: 10px;
+    height: 350px;
+    margin-top: 90px;
+}

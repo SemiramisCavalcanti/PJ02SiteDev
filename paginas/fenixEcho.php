@@ -78,20 +78,20 @@
             </div>
             <div class="row mt-3    ">
                 <div class="col-6 border border-light rounded p-3 text-light">
-                <h5>  E-mail Profissional</h5>
-                   
-                     <p class=" text-center m-3">
-                         <strong class="letramaisclara"> "Credibilidade para o seu endereço eletrônico".</strong> <br>
-                         Eviar e-mail com o nome do seu negócio, transmite o comprometimento da empresa com a comunicação com o cliente.
-                        
-                     </p>
-                    </div>
+                    <h5> E-mail Profissional</h5>
+
+                    <p class=" text-center m-3">
+                        <strong class="letramaisclara"> "Credibilidade para o seu endereço eletrônico".</strong> <br>
+                        Eviar e-mail com o nome do seu negócio, transmite o comprometimento da empresa com a comunicação com o cliente.
+
+                    </p>
+                </div>
                 <div class="col-1"></div>
                 <div class="col-5 border border-light rounded p-3 text-light">
                     <h5>Criação de Logomarcas</h5>
-                    <p class="m-3 text-center">Como etapa para a <strong class="letramaisclara">construção visual</strong>  da sua empresa, ter uma logo profissional é essencial para a 
+                    <p class="m-3 text-center">Como etapa para a <strong class="letramaisclara">construção visual</strong> da sua empresa, ter uma logo profissional é essencial para a
                         consolidação do seu negócio. <br>
-                        
+
                     </p>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                 <li class="mt-2 letramaisclara"> Menor custo</li>
                 <br>
                 <br>
-            
+
 
 
             </div>
@@ -127,20 +127,38 @@
     <div class="row">
 
         <!-- Coluna Sobre -->
-        <div class="col text-light mt-5">
+        <div class="col-6 text-light mt-5">
             <h4>
                 A Empresa
             </h4>
-            <p class="text-center">Atuamos no mercado de tecnologia na construção virtual da sua empresa, priorizando a qualidade para 
-                melhor alcançar os objetivos de nossos clientes, oferecemos serviços como: desenvolvimento de sites, 
+            <p class="text-center">Atuamos no mercado de tecnologia na construção virtual da sua empresa, priorizando a qualidade para
+                melhor alcançar os objetivos de nossos clientes, oferecemos serviços como: desenvolvimento de sites,
                 e-mail profissional, cartão de visitas virtual e criação de logomarcas.
             </p>
+            <div class="row">
+                <div class="col">
+                    <img src="http://placehold.it/250x200" alt="">
+                </div>
+                <div class="col">
+                    <h5 class="mt-3">
+                        Quem Sou?
+                    </h5>
+                    <p>Dev HTML | CSS | JS | PHP
+                        <br>
+                        Universitária em Análise e Desenvolvimento de Sistemas
+                    </p>
+                    <p></p>
+                </div>
+
+            </div>
 
         </div>
         <!-- Fim Coluna Sobre -->
+        <div class="col-1 linhaVertical rounded">
+        </div>
 
         <!-- Coluna Contato -->
-        <div class="col"></div>
+        <div class="col-5"></div>
         <!-- Fim Coluna Contato -->
 
     </div>
@@ -170,13 +188,13 @@
 
 <!-- Footer -->
 <div>
-<footer class="mt-5">
-    <div class="container">
-        cnpj icon pasta
+    <footer class="mt-5">
+        <div class="container">
+            cnpj icon pasta
 
-    </div>
+        </div>
 
-</footer>
+    </footer>
 
 </div>
 <!-- Fim Footer -->
