@@ -30,3 +30,8 @@ body {
 .letramaisclara {
     color: #e5989b;
 }
+
+footer {
+    background-color: #e5989b;
+    height: 100px;
+}

@@ -120,15 +120,6 @@
             </div>
         </div>
 
-
-
-
-
-
-
-
-
-
     </div>
     <!-- Fim Linha Serviços  -->
 
@@ -136,7 +127,16 @@
     <div class="row">
 
         <!-- Coluna Sobre -->
-        <div class="col"></div>
+        <div class="col text-light mt-5">
+            <h4>
+                A Empresa
+            </h4>
+            <p class="text-center">Atuamos no mercado de tecnologia na construção virtual da sua empresa, priorizando a qualidade para 
+                melhor alcançar os objetivos de nossos clientes, oferecemos serviços como: desenvolvimento de sites, 
+                e-mail profissional, cartão de visitas virtual e criação de logomarcas.
+            </p>
+
+        </div>
         <!-- Fim Coluna Sobre -->
 
         <!-- Coluna Contato -->
@@ -170,7 +170,13 @@
 
 <!-- Footer -->
 <div>
+<footer class="mt-5">
+    <div class="container">
+        cnpj icon pasta
 
+    </div>
+
+</footer>
 
 </div>
 <!-- Fim Footer -->
