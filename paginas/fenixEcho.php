@@ -60,7 +60,7 @@
                 <div class="col-6 mt-3">
                     <div class="tab-content mt-5 text-light text-center" id="nav-tabContent">
                         <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
-                            Site com intuito de apresentar a Empresa, a Equipe, o Portifólio, os Serviços, os Parceiros. <br>
+                            Site com intuito de apresentar a Empresa, a Equipe, o Portifólio, os Serviços e os Parceiros. <br>
                             <Strong class="letramaisclara text-center"> "É a sua casa na Internet"</Strong>
                         </div>
                         <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
@@ -77,17 +77,23 @@
                 </div>
             </div>
             <div class="row mt-3    ">
-                <div class="col-5 border border-light rounded p-3 text-light">
+                <div class="col-6 border border-light rounded p-3 text-light">
                 <h5>  E-mail Profissional</h5>
                    
-                     <p class=" text-center">
+                     <p class=" text-center m-3">
                          <strong class="letramaisclara"> "Credibilidade para o seu endereço eletrônico".</strong> <br>
                          Eviar e-mail com o nome do seu negócio, transmite o comprometimento da empresa com a comunicação com o cliente.
                         
                      </p>
                     </div>
                 <div class="col-1"></div>
-                <div class="col-6 border border-light rounded p-3 text-light">Criação de Logomarcas</div>
+                <div class="col-5 border border-light rounded p-3 text-light">
+                    <h5>Criação de Logomarcas</h5>
+                    <p class="m-3 text-center">Como etapa para a <strong class="letramaisclara">construção visual</strong>  da sua empresa, ter uma logo profissional é essencial para a 
+                        consolidação do seu negócio. <br>
+                        
+                    </p>
+                </div>
             </div>
         </div>
         <div class="col-1"></div>
@@ -106,7 +112,9 @@
                 <li class="mt-2 letramaisclara"> Nunca acaba</li>
                 <li class="mt-2 letramaisclara"> Facilidade para Atualizações</li>
                 <li class="mt-2 letramaisclara"> Menor custo</li>
-                <p></p>
+                <br>
+                <br>
+            
 
 
             </div>
