@@ -4,8 +4,8 @@
         <div class="row">
 
             <!-- Coluna Logomarca -->
-            <div class="col-2 logomarca">
-                <img src="" alt="">
+            <div class="col-2  logomarca">
+                <img class="" src="http://placehold.it/70x100" alt="">
             </div>
             <!-- Fim Coluna Logomarca -->
 
@@ -13,16 +13,16 @@
             <div class="col-6">
                 <div class="row">
                     <div class="col letrasmenu mt-5">
-                        <h4>Serviços</h4>
+                        <h5>Serviços</h5>
                     </div>
                     <div class="col letrasmenu mt-5">
-                        <h4>Portifólio</h4>
+                        <h5>Portifólio</h5>
                     </div>
                     <div class="col letrasmenu mt-5">
-                        <h4>Sobre</h4>
+                        <h5>Sobre</h5>
                     </div>
                     <div class="col letrasmenu mt-5">
-                        <h4>Contato</h4>
+                        <h5>Contato</h5>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@
 
 <!-- Corpo Site -->
 <div class="container">
-    <img src="http://placehold.it/1000x200" alt="" class="my-3">
+    <img src="img/imgSite2.png" alt="" class="my-3">
 
     <!-- Linha Serviços -->
 
@@ -77,7 +77,15 @@
                 </div>
             </div>
             <div class="row mt-3    ">
-                <div class="col-5 border border-light rounded p-3 text-light"> EMAIL pROFISSIONAL</div>
+                <div class="col-5 border border-light rounded p-3 text-light">
+                <h5>  E-mail Profissional</h5>
+                   
+                     <p class=" text-center">
+                         <strong class="letramaisclara"> "Credibilidade para o seu endereço eletrônico".</strong> <br>
+                         Eviar e-mail com o nome do seu negócio, transmite o comprometimento da empresa com a comunicação com o cliente.
+                        
+                     </p>
+                    </div>
                 <div class="col-1"></div>
                 <div class="col-6 border border-light rounded p-3 text-light">Criação de Logomarcas</div>
             </div>
