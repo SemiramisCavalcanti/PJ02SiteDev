@@ -1,3 +1,19 @@
+</div>
+<!-- Fim Corpo Site -->
+
+<!-- Footer -->
+<div>
+    <footer class="mt-5">
+        <div class="container">
+            cnpj icon pasta
+
+        </div>
+
+    </footer>
+
+</div>
+<!-- Fim Footer -->
+
 
     <!-- Lnks JS -->
     <script src="https://ajax.googleapis.com/ajax/"></script>

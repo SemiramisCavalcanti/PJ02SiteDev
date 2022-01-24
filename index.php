@@ -9,23 +9,32 @@ if ($pg) {
     switch ($_GET['pg']) {
 
         case 'FenixEcho':
-            include_once 'paginas/header.php';
+            include_once 'paginas/include/header.php';
             include_once 'paginas/fenixEcho.php';
-            include_once 'paginas/footer.php';
+            include_once 'paginas/topicos/servicos.php';
+            include_once 'paginas/topicos/portifolio.php';
+            include_once 'paginas/topicos/sobre-contato.php';
+            include_once 'paginas/include/footer.php';
             break;
 
 
             // FIM PAGINA INDEX DO SITE PRINCIPAL
 
         default:
-            include_once 'paginas/header.php';
-            include_once 'paginas/fenixEcho.php';
-            include_once 'paginas/footer.php';
+        include_once 'paginas/include/header.php';
+        include_once 'paginas/fenixEcho.php';
+        include_once 'paginas/topicos/servicos.php';
+        include_once 'paginas/topicos/portifolio.php';
+        include_once 'paginas/topicos/sobre-contato.php';
+        include_once 'paginas/include/footer.php';
             break;
     }
 } else {
     //não existe   
-    include_once 'paginas/header.php';
-    include_once 'paginas/fenixEcho.php';
-    include_once 'paginas/footer.php';
+    include_once 'paginas/include/header.php';
+            include_once 'paginas/fenixEcho.php';
+            include_once 'paginas/topicos/servicos.php';
+            include_once 'paginas/topicos/portifolio.php';
+            include_once 'paginas/topicos/sobre-contato.php';
+            include_once 'paginas/include/footer.php';
 }
