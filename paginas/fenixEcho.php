@@ -1,7 +1,7 @@
 <!-- Menu Principal-->
 <div class="menuprincipal my-2 w-100 rounded">
     <div class="container">
-        <div class="row">
+        <div class="row menuprincipal">
 
             <!-- Coluna Logomarca -->
             <div class="col-2  logomarca">
@@ -13,7 +13,7 @@
             <div class="col-6">
                 <div class="row">
                     <div class="col letrasmenu mt-5">
-                        <h5>Serviços</h5>
+                       <h5><a class="page-scroll" href="#servicos">Serviços</a> </h5>
                     </div>
                     <div class="col letrasmenu mt-5">
                         <h5>Portifólio</h5>

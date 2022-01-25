@@ -17,7 +17,7 @@ if ($pg) {
             include_once 'paginas/topicos/contato-localizacao.php';
             include_once 'paginas/include/footer.php';
                 break;
-
+        
 
             // FIM PAGINA INDEX DO SITE PRINCIPAL
 
