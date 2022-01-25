@@ -3,7 +3,7 @@
 
        <div class="row">
            <!-- Coluna 01 -->
-           <div class="col-6 text-light mt-5">
+           <div class="col-md text-light mt-5">
                <!-- A empresa -->
                <h4>
                    A Empresa
@@ -13,11 +13,11 @@
                    e-mail profissional, cartão de visitas virtual e criação de logomarcas.
                </p>
                <div class="row">
-                   <div class="col">
+                   <div class="col-md">
                        <img src="http://placehold.it/250x200" alt="">
                    </div>
                    <!-- Quem Sou -->
-                   <div class="col">
+                   <div class="col-md">
                        <h5 class="mt-3">
                            Quem Sou?
                        </h5>
@@ -34,12 +34,12 @@
            <div class="col-1 linhaVertical rounded">
            </div>
            <!-- Coluna 02 -->
-           <div class="col-5 text-light mt-5 ">
+           <div class="col-sm text-light mt-5 ">
                <div class="card m-auto mt-5 ">
                    <div class="card-header  mt-3 titulocard elevation-4">
 
                    </div>
-                   <div class="card-body mt-1">
+                   <div class="card-body mt-sm">
                        <div class="text-center letramaisescura">
                            <strong>Ter um ambiente virtual não é mais um diferencial, <br> é um requisito do mercado. </strong>
                            <br>
