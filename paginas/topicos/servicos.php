@@ -1,14 +1,14 @@
     <!-- Linha Serviços -->
-    <div class="container " id="servicos">
+    <div class="container" id="servicos">
         <!-- Menu Serviços (Bootstrap) -->
-        <div class="row">
-            <h4 class="mt-4 ml-3 text-light mb-4">
+        <div class="row container-fluid">
+            <h4 class="mt-4 ml-3 text-light mb-4 ">
                 Serviços
                 <hr>
             </h4>
-            <div class="col-6">
+            <div class="col-md">
                 <div class="row border border-light rounded p-3">
-                    <div class="col-6">
+                    <div class="col-md">
                         <h5 class="text-light">WebSites</h5>
 
                         <div class="list-group w-75" id="list-tab" role="tablist">
@@ -18,7 +18,7 @@
                             <a class="list-group-item list-group-item-action  list-group-item-danger letramaisescura" id="list-settings-list" data-bs-toggle="list" href="#list-settings" role="tab" aria-controls="list-settings">Loja Virtual</a>
                         </div>
                     </div>
-                    <div class="col-6 mt-3">
+                    <div class="col-md mt-3 ">
                         <div class="tab-content mt-5 text-light text-center" id="nav-tabContent">
                             <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
                                 Site com intuito de apresentar a Empresa, a Equipe, o Portifólio, os Serviços e os Parceiros. <br>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="row mt-3">
-                    <div class="col-6 border border-light rounded p-3 text-light">
+                    <div class="col-md border border-light rounded p-3 text-light">
                         <h5> E-mail Profissional</h5>
 
                         <p class=" text-center m-3">
@@ -48,7 +48,7 @@
                         </p>
                     </div>
                     <div class="col-1"></div>
-                    <div class="col-5 border border-light rounded p-3 text-light">
+                    <div class="col-md border border-light rounded p-3 text-light">
                         <h5>Criação de Logomarcas</h5>
                         <p class="m-3 text-center">Como etapa para a <strong class="letramaisclara">construção visual</strong> da sua empresa, ter uma logo profissional é essencial para a
                             consolidação do seu negócio. <br>
@@ -57,8 +57,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-1"></div>
-            <div class="col-4">
+            <div class="col-1   "></div> <br>
+            <div class="col-md">
                 <div class="row border border-light rounded p-3 text-light">
                     <h5 class="mb-4">Cartão de Visita Virtual</h5>
                     <p class="text-center">Fundamental para o desenvolvimento do negócio o Cartão Virtual é a ferramenta que mantém contato com

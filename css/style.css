@@ -17,28 +17,28 @@ body {
     margin-top: 100px;
     position: fixed;
     z-index: 100;
-    width: 70px;
+    width: 20%;
 }
 
 .botaoTop2 a img {
     margin-top: 200px;
     position: fixed;
     z-index: 100;
-    width: 70px;
+    width: 6%;
 }
 
 .botaoTop3 a img {
     margin-top: 300px;
     position: fixed;
     z-index: 100;
-    width: 70px;
+    width: 6%;
 }
 
 .botaoTop4 a img {
     margin-top: 400px;
     position: fixed;
     z-index: 100;
-    width: 70px;
+    width: 6%;
 }
 
 .redessociais {
@@ -66,7 +66,11 @@ footer {
 
 .linhaVertical {
     background-color: #e5989b;
-    width: 10px;
+    width: 2%;
     height: 350px;
     margin-top: 90px;
+}
+
+.logomarca img {
+    width: 70%;
 }

@@ -5,7 +5,7 @@
 
             <!-- Coluna Logomarca -->
             <div class="col-2  logomarca">
-                <img class="w-75 mt-2" src="img/FenixEchoBranca.png" alt="">
+                <img  src="img/FenixEchoBranca.png" alt="" class="mt-2 img-fluid">
             </div>
             <!-- Fim Coluna Logomarca -->
 
@@ -56,7 +56,7 @@
 
 <!-- Corpo Site -->
 <div class="container">
-    <img src="img/imgSite2.png" alt="" class="my-3">
+    <img src="img/imgSite2.png" alt="" class="my-3 img-fluid">
 
 
 
