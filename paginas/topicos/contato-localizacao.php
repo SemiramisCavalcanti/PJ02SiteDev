@@ -1,3 +1,9 @@
+<div class="container">
+
+
+
+
+
 <div class="row">
     <div class="col-5 text-light">
         <h4 class="mt-5 ml-3">
@@ -52,10 +58,6 @@
 </div>
 <!-- Linha Contato  -->
 
-
-
-
-
 <!-- Linha Reuniões On-line/Localização -->
 <div class="row">
     <!-- Coluna Reuniões On-line -->
@@ -68,3 +70,5 @@
     <!-- Fim Coluna Localização -->
 </div>
 <!-- Fim Linha Reuniões On-line/Localização -->
+
+</div>

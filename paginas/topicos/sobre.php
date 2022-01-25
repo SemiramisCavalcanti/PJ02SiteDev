@@ -1,56 +1,58 @@
    <!-- Linha Sobre-->
-   <div class="row">
-       <!-- Coluna 01 -->
-       <div class="col-6 text-light mt-5">
-           <!-- A empresa -->
-           <h4>
-               A Empresa
-           </h4>
-           <p class="text-center">Atuamos no mercado de tecnologia na construção virtual da sua empresa, priorizando a qualidade para
-               melhor alcançar os objetivos de nossos clientes, oferecemos serviços como: desenvolvimento de sites,
-               e-mail profissional, cartão de visitas virtual e criação de logomarcas.
-           </p>
-           <div class="row">
-               <div class="col">
-                   <img src="http://placehold.it/250x200" alt="">
-               </div>
-               <!-- Quem Sou -->
-               <div class="col">
-                   <h5 class="mt-3">
-                       Quem Sou?
-                   </h5>
-                   <p>Dev HTML | CSS | JS | PHP
-                       <br>
-                       Universitária em Análise e Desenvolvimento de Sistemas
-                   </p>
-                   <p></p>
-               </div>
+   <div class="container">
 
-           </div>
-       </div>
-       <!-- Fim Coluna 01 -->
-       <div class="col-1 linhaVertical rounded">
-       </div>
-       <!-- Coluna 02 -->
-       <div class="col-5 text-light mt-5 ">
-           <div class="card m-auto mt-5 ">
-               <div class="card-header  mt-3 titulocard elevation-4">
-
-               </div>
-               <div class="card-body mt-1">
-                   <div class="text-center letramaisescura">
-                       <strong>Ter um ambiente virtual não é mais um diferencial, <br> é um requisito do mercado. </strong>
-                       <br>
-                       Na Era Digital onde nossas referências, produtos/serviços, parceiros, projetos e feedbacks de clientes estão nas pontas dos dedos,
-                       temos a facilidade de ofertar, vender e entregar nossos produtos tudo de forma on-line.
-                       <br>
-                       <strong>Então um ambiente Virtual se tornou essencial e nós ajudamos você, a sua marca e a sua empresa a se conectar com o mundo e suas oportunidades.</strong>
-                       <hr>
+       <div class="row">
+           <!-- Coluna 01 -->
+           <div class="col-6 text-light mt-5">
+               <!-- A empresa -->
+               <h4>
+                   A Empresa
+               </h4>
+               <p class="text-center">Atuamos no mercado de tecnologia na construção virtual da sua empresa, priorizando a qualidade para
+                   melhor alcançar os objetivos de nossos clientes, oferecemos serviços como: desenvolvimento de sites,
+                   e-mail profissional, cartão de visitas virtual e criação de logomarcas.
+               </p>
+               <div class="row">
+                   <div class="col">
+                       <img src="http://placehold.it/250x200" alt="">
+                   </div>
+                   <!-- Quem Sou -->
+                   <div class="col">
+                       <h5 class="mt-3">
+                           Quem Sou?
+                       </h5>
+                       <p>Dev HTML | CSS | JS | PHP
+                           <br>
+                           Universitária em Análise e Desenvolvimento de Sistemas
+                       </p>
+                       <p></p>
                    </div>
 
                </div>
+           </div>
+           <!-- Fim Coluna 01 -->
+           <div class="col-1 linhaVertical rounded">
+           </div>
+           <!-- Coluna 02 -->
+           <div class="col-5 text-light mt-5 ">
+               <div class="card m-auto mt-5 ">
+                   <div class="card-header  mt-3 titulocard elevation-4">
 
-               <!-- 
+                   </div>
+                   <div class="card-body mt-1">
+                       <div class="text-center letramaisescura">
+                           <strong>Ter um ambiente virtual não é mais um diferencial, <br> é um requisito do mercado. </strong>
+                           <br>
+                           Na Era Digital onde nossas referências, produtos/serviços, parceiros, projetos e feedbacks de clientes estão nas pontas dos dedos,
+                           temos a facilidade de ofertar, vender e entregar nossos produtos tudo de forma on-line.
+                           <br>
+                           <strong>Então um ambiente Virtual se tornou essencial e nós ajudamos você, a sua marca e a sua empresa a se conectar com o mundo e suas oportunidades.</strong>
+                           <hr>
+                       </div>
+
+                   </div>
+
+                   <!-- 
     texto para colocar
                <div>
                        E quais seus ganhos reais?
@@ -65,8 +67,9 @@
                        Venha fazer negócio! Peça já seu orçamento!
                        <hr>
                    </div> -->
+               </div>
+               <!-- Fim Coluna Contato -->
            </div>
-           <!-- Fim Coluna Contato -->
+           <!-- Fim Linha Sobre -->
        </div>
-       <!-- Fim Linha Sobre -->
-       
+   </div>
