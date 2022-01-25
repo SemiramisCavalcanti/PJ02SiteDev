@@ -54,7 +54,7 @@
     <p>Salvo exceções dispomos de Reunião Presencial (verificar disponibilidade da localidade e custos)
     </p>
     <br>
-    <button class="btn btn-outline-light">Faça já seu orçamento.</button>
+    <a href="#contato" class="decoration-none"> <button class="btn btn-outline-light">Faça já seu orçamento.</button></a>
 </div>
 <!-- Linha Contato  -->
 
