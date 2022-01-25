@@ -5,15 +5,18 @@
 
 body {
     background-color: #582c4d;
-    display: flex;
 }
 
 .menuprincipal {
     background-color: #e5989b;
     width: 100%;
     height: 100px;
+}
+
+.botaoTop a img {
     position: fixed;
     z-index: 100;
+    width: 70px;
 }
 
 .redessociais {

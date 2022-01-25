@@ -1,7 +1,7 @@
 <!-- Menu Principal-->
 <div class="menuprincipal my-2 w-100 rounded">
     <div class="container">
-        <div class="row menuprincipal">
+        <div class="row menuprincipal mb-5">
 
             <!-- Coluna Logomarca -->
             <div class="col-2  logomarca">
@@ -13,16 +13,33 @@
             <div class="col-6">
                 <div class="row">
                     <div class="col letrasmenu mt-5">
-                       <h5><a class="page-scroll" href="#servicos">Serviços</a> </h5>
+                        <h5>
+                            <a href="#servicos">
+                                Serviços
+                            </a>
+                        </h5>
+                    </div>
+                    <!-- <div class="col letrasmenu mt-5">
+                        <h5>
+                            <a href="#portifolio">
+                                Portifólio
+                            </a>
+                        </h5>
+                    </div> -->
+                    <div class="col letrasmenu mt-5">
+                        <h5>
+                            <a href="#sobre">
+                                Sobre
+                            </a>
+                        </h5>
+
                     </div>
                     <div class="col letrasmenu mt-5">
-                        <h5>Portifólio</h5>
-                    </div>
-                    <div class="col letrasmenu mt-5">
-                        <h5>Sobre</h5>
-                    </div>
-                    <div class="col letrasmenu mt-5">
-                        <h5>Contato</h5>
+                        <h5>
+                            <a href="#contato">
+                                Contato
+                            </a>
+                        </h5>
                     </div>
                 </div>
             </div>
@@ -43,4 +60,13 @@
 
 
 
+</div>
+
+<div class="botoeslaterais justify-content-end text-right ">
+    <div class="row botaoTop">
+          <a href="#servicos" class="mb-5">  <img src="img/servicos.png" alt="" class="rounded-circle">   </a>
+          <a href="#sobre" class="mt-5 mb-5">  <img src="img/sobre.png" alt="" class=" rounded-circle"> </a>
+          <a href="#contato" class="mt-5">   <img src="img/contato.png" alt="" class=" rounded-circle"> </a>
+    </div>
+    
 </div>
