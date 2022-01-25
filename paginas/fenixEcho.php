@@ -4,13 +4,13 @@
         <div class="row menuprincipal mb-5">
 
             <!-- Coluna Logomarca -->
-            <div class="col-2  logomarca">
+            <div class="col-sm logomarca">
                 <img  src="img/FenixEchoBranca.png" alt="" class="mt-2 img-fluid">
             </div>
             <!-- Fim Coluna Logomarca -->
 
             <!-- Coluna Partes/Paginas -->
-            <div class="col-6">
+            <div class="col-md">
                 <div class="row">
                     <div class="col letrasmenu mt-5">
                         <h5>
@@ -46,6 +46,9 @@
             <!-- Fim Coluna Partes/Paginas -->
 
             <!-- Coluna Rede Sociais -->
+            <div class="col-sm">
+
+            </div>
 
             <!-- Fim Coluna Redes Sociais -->
 
