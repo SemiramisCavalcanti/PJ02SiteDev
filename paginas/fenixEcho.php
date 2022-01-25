@@ -5,7 +5,7 @@
 
             <!-- Coluna Logomarca -->
             <div class="col-2  logomarca">
-                <img class="" src="http://placehold.it/70x100" alt="">
+                <img class="w-75 mt-2" src="img/FenixEchoBranca.png" alt="">
             </div>
             <!-- Fim Coluna Logomarca -->
 
@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col letrasmenu mt-5">
                         <h5>
-                            <a href="#servicos">
+                            <a class="text-decoration-none letramaisescura" href="#servicos">
                                 Serviços
                             </a>
                         </h5>
@@ -28,7 +28,7 @@
                     </div> -->
                     <div class="col letrasmenu mt-5">
                         <h5>
-                            <a href="#sobre">
+                            <a class="text-decoration-none letramaisescura" href="#sobre">
                                 Sobre
                             </a>
                         </h5>
@@ -36,7 +36,7 @@
                     </div>
                     <div class="col letrasmenu mt-5">
                         <h5>
-                            <a href="#contato">
+                            <a class="text-decoration-none letramaisescura" href="#contato">
                                 Contato
                             </a>
                         </h5>
