@@ -9,6 +9,7 @@
     <title>FenixEcho</title>
 
     <link rel="stylesheet" href="plugins\bootstrap-5.1.3-dist\bootstrap-5.1.3-dist\css\bootstrap.min.css">
+    <link rel="stylesheet" href="plugins\fontawesome-free\css\fontawesome.min.css">
     <link rel="stylesheet" href="css/style.css">
     
 </head>

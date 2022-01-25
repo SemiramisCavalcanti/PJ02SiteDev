@@ -46,7 +46,13 @@
             <!-- Fim Coluna Partes/Paginas -->
 
             <!-- Coluna Rede Sociais -->
-            <div class="col-sm">
+            <div class="col-md">
+
+
+                <a href="" class="link-light"> <i class="fa fa-instagram"></i> </a>
+                <a href=""> <i class="fa fa-github"></i> </a>
+                <a href=""> <i class="fa fa-linkedin"></i> </a>
+         
 
             </div>
 
