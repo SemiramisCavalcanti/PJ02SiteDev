@@ -2,6 +2,10 @@
 
     <!-- Menu Serviços (Bootstrap) -->
     <div class="row">
+    <h4 class="mt-4 ml-3 text-light mb-4">
+            Serviços
+            <hr>
+        </h4>
         <div class="col-6">
             <div class="row border border-light rounded p-3">
                 <div class="col-6">

@@ -13,7 +13,7 @@ if ($pg) {
             include_once 'paginas/fenixEcho.php';
             include_once 'paginas/topicos/servicos.php';
             include_once 'paginas/topicos/portifolio.php';
-            include_once 'paginas/topicos/sobre-contato.php';
+            include_once 'paginas/topicos/sobre.php';
             include_once 'paginas/topicos/contato-localizacao.php';
             include_once 'paginas/include/footer.php';
                 break;
@@ -37,6 +37,7 @@ if ($pg) {
             include_once 'paginas/fenixEcho.php';
             include_once 'paginas/topicos/servicos.php';
             include_once 'paginas/topicos/portifolio.php';
+            include_once 'paginas/topicos/sobre.php';
             include_once 'paginas/topicos/contato-localizacao.php';
             include_once 'paginas/include/footer.php';
 }
