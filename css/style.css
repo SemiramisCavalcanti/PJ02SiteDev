@@ -13,7 +13,29 @@ body {
     height: 100px;
 }
 
-.botaoTop a img {
+.botaoTop1 a img {
+    margin-top: 100px;
+    position: fixed;
+    z-index: 100;
+    width: 70px;
+}
+
+.botaoTop2 a img {
+    margin-top: 200px;
+    position: fixed;
+    z-index: 100;
+    width: 70px;
+}
+
+.botaoTop3 a img {
+    margin-top: 300px;
+    position: fixed;
+    z-index: 100;
+    width: 70px;
+}
+
+.botaoTop4 a img {
+    margin-top: 400px;
     position: fixed;
     z-index: 100;
     width: 70px;

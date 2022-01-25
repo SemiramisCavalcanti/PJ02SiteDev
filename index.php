@@ -10,34 +10,37 @@ if ($pg) {
 
         case 'FenixEcho':
             include_once 'paginas/include/header.php';
+            include_once 'paginas/include/botoes-laterais.php';
             include_once 'paginas/fenixEcho.php';
             include_once 'paginas/topicos/servicos.php';
             include_once 'paginas/topicos/portifolio.php';
             include_once 'paginas/topicos/sobre.php';
             include_once 'paginas/topicos/contato-localizacao.php';
             include_once 'paginas/include/footer.php';
-                break;
-        
+            break;
+
 
             // FIM PAGINA INDEX DO SITE PRINCIPAL
 
         default:
-        include_once 'paginas/include/header.php';
-        include_once 'paginas/fenixEcho.php';
-        include_once 'paginas/topicos/servicos.php';
-        include_once 'paginas/topicos/portifolio.php';
-        include_once 'paginas/topicos/sobre.php';
-        include_once 'paginas/topicos/contato-localizacao.php';
-        include_once 'paginas/include/footer.php';
+            include_once 'paginas/include/header.php';
+            include_once 'paginas/include/botoes-laterais.php';
+            include_once 'paginas/fenixEcho.php';
+            include_once 'paginas/topicos/servicos.php';
+            include_once 'paginas/topicos/portifolio.php';
+            include_once 'paginas/topicos/sobre.php';
+            include_once 'paginas/topicos/contato-localizacao.php';
+            include_once 'paginas/include/footer.php';
             break;
     }
 } else {
     //não existe   
     include_once 'paginas/include/header.php';
-            include_once 'paginas/fenixEcho.php';
-            include_once 'paginas/topicos/servicos.php';
-            include_once 'paginas/topicos/portifolio.php';
-            include_once 'paginas/topicos/sobre.php';
-            include_once 'paginas/topicos/contato-localizacao.php';
-            include_once 'paginas/include/footer.php';
+    include_once 'paginas/include/botoes-laterais.php';
+    include_once 'paginas/fenixEcho.php';
+    include_once 'paginas/topicos/servicos.php';
+    include_once 'paginas/topicos/portifolio.php';
+    include_once 'paginas/topicos/sobre.php';
+    include_once 'paginas/topicos/contato-localizacao.php';
+    include_once 'paginas/include/footer.php';
 }

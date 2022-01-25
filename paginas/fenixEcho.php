@@ -61,12 +61,3 @@
 
 
 </div>
-
-<div class="botoeslaterais justify-content-end text-right ">
-    <div class="row botaoTop">
-          <a href="#servicos" class="mb-5">  <img src="img/servicos.png" alt="" class="rounded-circle">   </a>
-          <a href="#sobre" class="mt-5 mb-5">  <img src="img/sobre.png" alt="" class=" rounded-circle"> </a>
-          <a href="#contato" class="mt-5">   <img src="img/contato.png" alt="" class=" rounded-circle"> </a>
-    </div>
-    
-</div>
