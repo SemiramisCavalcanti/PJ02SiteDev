@@ -13,11 +13,11 @@
                    e-mail profissional, cartão de visitas virtual e criação de logomarcas.
                </p>
                <div class="row">
-                   <div class="col-md">
+                   <div class="col-sm">
                        <img src="http://placehold.it/250x200" alt="">
                    </div>
                    <!-- Quem Sou -->
-                   <div class="col-md">
+                   <div class="col-sm">
                        <h5 class="mt-3">
                            Quem Sou?
                        </h5>
