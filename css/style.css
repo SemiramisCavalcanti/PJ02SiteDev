@@ -13,6 +13,10 @@ body {
     height: 100px;
 }
 
+.menuprincipal div div div h5 a {
+    font-size: 120%;
+}
+
 .botaoTop1 a img {
     margin-top: 100px;
     position: fixed;
@@ -41,10 +45,10 @@ body {
     width: 6%;
 }
 
-.redessociais {
-    font-size: 25px;
+.redessociais a i {
+    font-size: 150%;
     margin-top: 40px;
-    margin-left: 100px;
+    margin-left: 25px;
 }
 
 .letrasmenu h2 {
