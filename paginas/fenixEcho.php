@@ -35,7 +35,7 @@
                     </div> -->
                     <div class="col-3 letrasmenu mt-5">
                         <h5>
-                            <a class="text-decoration-none text-light" href="#sobre">
+                            <a class="text-decoration-none letramaisescura" href="#sobre">
                                 Sobre
                             </a>
                         </h5>
