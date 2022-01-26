@@ -53,7 +53,7 @@
             <!-- Fim Coluna Partes/Paginas -->
 
             <!-- Coluna Rede Sociais -->
-            <div class="col-2 redessociais container-fluid">
+            <div class="col-2 redessociais container-fluid ">
                 <a href="" class="link-light text-decoration-none"> <i class="fab fa-instagram"></i> </a>
                 <a href="" class="link-light text-decoration-none"> <i class="fab fa-github"></i> </a>
                 <a href="" class="link-light text-decoration-none"> <i class="fab fa-linkedin"></i> </a>

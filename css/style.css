@@ -18,31 +18,31 @@ body {
 }
 
 .botaoTop1 a img {
-    margin-top: 120px;
+    margin-top: 200px;
     position: fixed;
     z-index: 100;
-    width: 6%;
+    width: 4%;
 }
 
 .botaoTop2 a img {
-    margin-top: 220px;
+    margin-top: 270px;
     position: fixed;
     z-index: 100;
-    width: 6%;
+    width: 4%;
 }
 
 .botaoTop3 a img {
-    margin-top: 320px;
+    margin-top: 340px;
     position: fixed;
     z-index: 100;
-    width: 6%;
+    width: 4%;
 }
 
 .botaoTop4 a img {
-    margin-top: 420px;
+    margin-top: 410px;
     position: fixed;
     z-index: 100;
-    width: 6%;
+    width: 4%;
 }
 
 .redessociais a i {
