@@ -4,7 +4,7 @@
         <div class="row menuprincipal mb-5" id="home">
 
             <!-- Coluna Logomarca -->
-            <div class="col-3 logomarca ">
+            <div class="col-3 logomarca text-center">
                 <img  src="img/FenixEchoBranca.png" alt="" class="mt-2 img-fluid">
             </div>
             <!-- Fim Coluna Logomarca -->
@@ -69,7 +69,7 @@
 <!-- Fim Menu Principal -->
 
 <!-- Corpo Site -->
-<div class="container">
+<div class="container text-center">
     <img src="img/imgSite2.png" alt="" class="my-3 img-fluid">
 
 
