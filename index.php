@@ -19,6 +19,13 @@ if ($pg) {
             include_once 'paginas/include/footer.php';
             break;
 
+        case 'bioFenix':
+            include_once 'paginas/include/header.php';
+            include_once 'paginas/include/botoes-laterais.php';
+            include_once 'paginas/bioFenix.php';
+            include_once 'paginas/include/footer.php';
+            break;
+
 
             // FIM PAGINA INDEX DO SITE PRINCIPAL
 
