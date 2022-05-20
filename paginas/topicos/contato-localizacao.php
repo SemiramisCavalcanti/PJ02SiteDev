@@ -17,7 +17,7 @@
                     <option>Desenvolvimento de Site</option>
                     <option>E-mail Profissional</option>
                     <option>Cartão de Visita Virtual</option>
-                    <option>Logomarca</option>
+                    <option>Cardápio Virtual</option>
                 </select>
             </div>
             <div class="form-group mt-3">

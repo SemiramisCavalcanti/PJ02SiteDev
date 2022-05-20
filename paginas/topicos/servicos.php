@@ -26,7 +26,7 @@
                             </div>
                             <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
                                 Site de página única com o intuito de promover. Seja um Evento, Lançamento, Vendas Rápidas de Serviços
-                                ou Prodtos.</div>
+                                ou Produtos.</div>
                             <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">Pessoal ou Profissional,
                                 o blog é um site com o intuito de se comunicar com o mundo. Seja para escrever sobre suas opniões, sua jornada,
                                 compartilhar conhecimento e tantos outros. Então nada mais justo que um site personalizado!!

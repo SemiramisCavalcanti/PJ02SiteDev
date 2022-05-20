@@ -10,7 +10,7 @@
                </h4>
                <p class="text-center">Atuamos no mercado de tecnologia na construção virtual da sua empresa, priorizando a qualidade para
                    melhor alcançar os objetivos de nossos clientes, oferecemos serviços como: desenvolvimento de sites,
-                   e-mail profissional, cartão de visitas virtual e criação de logomarcas.
+                   e-mail profissional, cartão de visitas virtual e cardápios virtual.
                </p>
                <div class="row">
                    <div class="col-sm">
