@@ -75,9 +75,11 @@
                         <div class="row border border-light rounded p-3 text-light ml-3 mt-5">
                             <h5> Cardápio Virtual</h5>
         
-                                <p class=" text-center m-3">
-                                    <strong class="letramaisclara"> descrever serviço
-        
+                                <p class=" text-center m-3"> Ferramenta tecnológica 
+                                    <strong class="letramaisclara"> que melhora a interação com o cliente </strong>
+                                    , promove eficiência e rapidez, além de uma maior flexibilidade em cardápios sazonais, promoções, festivais, happyhour. 
+                                    Chega de adesivos nos preços e preços de caneta.
+                                    
                                 </p>
 
                         </div>
