@@ -5,7 +5,7 @@ $email = $_POST['email'];
 $phone = $_POST['phone'];
 $communication = $_POST['communication'];
 
-$to = 'webdesigncavalcanti@gmail.com';
+$to = 'contato@fenixecho.com.br';
 $subject = 'Budget Contact';
 $msg = " Cliente: $name/n" .
     "Email: $email/n" .
