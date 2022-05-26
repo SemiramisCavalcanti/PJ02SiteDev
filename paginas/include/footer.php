@@ -5,14 +5,11 @@
 <footer class="mt-5 rounded">
 
     <div class="row">
-        <div class="col">
-    
+        <div class="col text-center mt-3 justify-content-start">
+        <img src="img\png-transparent-computer-security-threat-information-sitelock-grease-miscellaneous-text-trademark.png" alt="" Class="w-25">
+        </div>
 
-        </div>
-        <div class="col ">
-            <img src="" alt="">
-        </div>
-        <div class="col redessociais">
+        <div class="col redessociais justify-content-end">
             <a href="" class=" text-decoration-none letramaisescura"> <i class="fab fa-instagram"></i> </a>
             <a href="" class=" text-decoration-none letramaisescura"> <i class="fab fa-github"></i> </a>
             <a href="" class=" text-decoration-none letramaisescura"> <i class="fab fa-linkedin"></i> </a>
