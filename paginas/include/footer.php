@@ -3,19 +3,20 @@
 <!-- Footer -->
 
 <footer class="mt-5 rounded">
-
-    <div class="row">
-        <div class="col text-center mt-3 justify-content-start">
-        <img src="img\png-transparent-computer-security-threat-information-sitelock-grease-miscellaneous-text-trademark.png" alt="" Class="w-25">
-        </div>
-
-        <div class="col redessociais justify-content-end">
-            <a href="" class=" text-decoration-none letramaisescura"> <i class="fab fa-instagram"></i> </a>
-            <a href="" class=" text-decoration-none letramaisescura"> <i class="fab fa-github"></i> </a>
-            <a href="" class=" text-decoration-none letramaisescura"> <i class="fab fa-linkedin"></i> </a>
-
-        </div>
+<div class="row">
+    <div class="col">
+        <img src="img\png-transparent-computer-security-threat-information-sitelock-grease-miscellaneous-text-trademark.png" alt="" width="200" class="ms-5 mt-3">
+        
     </div>
+    <div class="col">
+        <img src="img\FenixEchoRoxa.png" alt="" width="120" class="ms-5 p-2">
+
+    </div>
+    <div class="col">
+
+    </div>
+</div>
+
 
 
 </footer>
