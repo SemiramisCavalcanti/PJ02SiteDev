@@ -4,22 +4,22 @@
         <div class="row menuprincipal mb-5" id="home">
 
             <!-- Coluna Logomarca -->
-            <div class="col-3 logomarca text-center">
+            <div class="col-md logomarca text-center">
                 <img  src="img/FenixEchoBranca.png" alt="" class="mt-3 img-fluid">
             </div>
             <!-- Fim Coluna Logomarca -->
 
             <!-- Coluna Partes/Paginas -->
-            <div class="col-7">
+            <div class="col-md">
                 <div class="row">
-                    <div class="col-3 letrasmenu mt-4">
+                    <div class="col-sm letrasmenu mt-4">
                         <h5>
                             <a class="text-decoration-none letramaisescura" href="#bioFenix">
                                 Home
                             </a>
                         </h5>
                     </div>
-                    <div class="col-3 letrasmenu mt-4">
+                    <div class="col-sm letrasmenu mt-4">
                         <h5>
                             <a class="text-decoration-none letramaisescura" href="#servicos">
                                 Serviços
@@ -33,7 +33,7 @@
                             </a>
                         </h5>
                     </div> -->
-                    <div class="col-3 letrasmenu mt-4">
+                    <div class="col-sm letrasmenu mt-4">
                         <h5>
                             <a class="text-decoration-none letramaisescura" href="#sobre">
                                 Sobre
@@ -41,7 +41,7 @@
                         </h5>
 
                     </div>
-                    <div class="col-3 letrasmenu mt-4">
+                    <div class="col-sm letrasmenu mt-4">
                         <h5>
                             <a class="text-decoration-none letramaisescura" href="#contato">
                                 Contato
@@ -54,9 +54,9 @@
 
             <!-- Coluna Rede Sociais -->
             <div class="col-2 redessociais container-fluid ">
-                <a href="" class="link-light text-decoration-none"> <i class="fab fa-instagram"></i> </a>
-                <a href="" class="link-light text-decoration-none"> <i class="fab fa-github"></i> </a>
-                <a href="" class="link-light text-decoration-none"> <i class="fab fa-linkedin"></i> </a>
+                <a href="https://www.instagram.com/fenix_echo_web/" class="link-light text-decoration-none"> <i class="fab fa-instagram"></i> </a>
+                <a href="https://github.com/SemiramisCavalcanti" class="link-light text-decoration-none"> <i class="fab fa-github"></i> </a>
+                <a href="https://www.linkedin.com/in/semiramis-cavalcanti-01a18013b/" class="link-light text-decoration-none"> <i class="fab fa-linkedin"></i> </a>
          
 
             </div>
