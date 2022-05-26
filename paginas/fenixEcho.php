@@ -30,6 +30,9 @@
                         <li class="nav-item mt-3 ms-4">
                             <a href="https://www.linkedin.com/in/semiramis-cavalcanti-01a18013b/" class="link-light text-decoration-none"> <i class="fab fa-linkedin"></i> </a>
                         </li>
+                        <li class="nav-item mt-3 ms-4">
+                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="link-light text-decoration-none"> <i class="fab fa-whatsapp"></i> </a>
+                        </li>
 
                     </ul>
 
