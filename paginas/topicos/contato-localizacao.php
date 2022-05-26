@@ -51,7 +51,7 @@
 </div>
 <div class="text-light text-center mt-3">
     <!-- Sobre orçamento e localiade -->
-    <h4>Somos uma Empresa 100% Virtual, Desenvoldores de WebSites e Conteúdos Digitais. <br> "Entregamos nossos serviços onde estiver."</h4>
+    <h4>Somos uma Empresa 100% Virtual, Desenvoldores de WebSites e Ferramentas Digitais. <br> "Entregamos nossos serviços onde estiver."</h4>
     <p>Salvo exceções dispomos de Reunião Presencial (verificar disponibilidade de horários e custos)
     </p>
     <br>
