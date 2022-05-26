@@ -6,22 +6,7 @@
 
     <div class="row">
         <div class="col">
-            <div class="row mt-5">
-                <div class="col"></div>
-                <div class="col-6 letramaisescura">
-                    <a href="" class="text-decoration-none  letramaisescura">
-                        <h6>Politica de Privacidade </h6>
-                    </a>
-                </div>
-                <div class="col-1">
-                   <h6> | </h6>
-                </div>
-                <div class="col-4">
-                    <a href="" class="text-decoration-none letramaisescura">
-                        <h6 >Termos de Uso </h6>
-                    </a>
-                </div>
-            </div>
+    
 
         </div>
         <div class="col ">
