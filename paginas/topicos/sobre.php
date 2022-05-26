@@ -13,15 +13,15 @@
                    e-mail profissional, cartão de visitas virtual e cardápios virtual.
                </p>
                <div class="row">
-                   <div class="col-sm">
-                       <img src="http://placehold.it/250x200" alt="">
-                   </div>
+                   <!-- <div class="col-sm">
+                       <img src="" alt="">
+                   </div> -->
                    <!-- Quem Sou -->
                    <div class="col-sm">
                        <h5 class="mt-3">
                            Quem Sou?
                        </h5>
-                       <p>Dev HTML | CSS | JS | PHP
+                       <p>Desenvolvedora Web HTML | CSS | JS | PHP
                            <br>
                            Universitária em Análise e Desenvolvimento de Sistemas
                        </p>
