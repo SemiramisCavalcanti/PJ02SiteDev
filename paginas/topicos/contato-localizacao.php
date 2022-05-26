@@ -8,6 +8,7 @@
     <div class="col-md text-light">
         <h4 class="mt-5 ml-3">
             Contato
+            <hr>
         </h4>
         <!-- Fomulário de Envio Contato -->
         <form method="post" action="formulario_php.php" class="mt-5">

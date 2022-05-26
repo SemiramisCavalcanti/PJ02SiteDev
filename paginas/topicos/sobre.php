@@ -7,8 +7,9 @@
                <!-- A empresa -->
                <h4>
                    A Empresa
+                   <hr>
                </h4>
-               <p class="text-center">Atuamos no mercado de tecnologia na construção virtual da sua empresa, priorizando a qualidade para
+               <p class="text-center">Atuamos no mercado de tecnologia, na construção virtual da sua empresa, priorizando a qualidade para
                    melhor alcançar os objetivos de nossos clientes, oferecemos serviços como: desenvolvimento de sites,
                    e-mail profissional, cartão de visitas virtual e cardápios virtual.
                </p>
@@ -30,9 +31,7 @@
 
                </div>
            </div>
-           <!-- Fim Coluna 01 -->
-           <div class="col-1 linhaVertical rounded">
-           </div>
+
            <!-- Coluna 02 -->
            <div class="col-sm text-light mt-5 ">
                <div class="card m-auto mt-5 ">
