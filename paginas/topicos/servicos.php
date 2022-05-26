@@ -78,7 +78,7 @@
                                 <p class=" text-center m-3"> Ferramenta tecnológica 
                                     <strong class="letramaisclara"> que melhora a interação com o cliente </strong>
                                     , promove eficiência e rapidez, além de uma maior flexibilidade em cardápios sazonais, promoções, festivais, happyhour. 
-                                    Chega de adesivos nos preços e preços de caneta.
+                                    <br><strong class="letramaisclara"> Chega de adesivos nos preços e preços de caneta.</strong>
                                     
                                 </p>
 
