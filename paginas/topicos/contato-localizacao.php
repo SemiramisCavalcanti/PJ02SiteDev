@@ -14,7 +14,7 @@
         <form method="post" action="formulario_php.php" class="">
             <div class="form-group">
                 <label for="contact_client"></label>
-                <select class="form-control" id="contact_client">
+                <select class="form-control" id="contact_client" name="contact_client">
                     <option>Todos os serviços</option>
                     <option>Desenvolvimento de Site</option>
                     <option>E-mail Profissional</option>
@@ -24,21 +24,21 @@
             </div>
             <div class="form-group">
                 <label for="fullname"></label>
-                <input type="text" class="form-control" id="fullname" placeholder="Nome Completo">
+                <input type="text" class="form-control" id="fullname" placeholder="Nome Completo" name="fullname">
             </div>
             <div class="row">
                 <div class="form-group col">
                     <label for="email"></label>
-                    <input type="email" class="form-control" id="email" placeholder="E-mail">
+                    <input type="email" class="form-control" id="email" placeholder="E-mail" name="email">
                 </div>
                 <div class="form-group col">
                     <label for="phone"></label>
-                    <input type="text" class="form-control" id="phone" placeholder="(xx) x.xxxx-xxxx">
+                    <input type="text" class="form-control" id="phone" placeholder="(xx) x.xxxx-xxxx" name="phone">
                 </div>
             </div>
             <div class="form-group">
                 <label for="communication"></label>
-                <textarea class="form-control" id="communication" rows="3" placeholder="Conte-nos um pouco sobre sua empresa e como podemos lhe ajudar!"></textarea>
+                <textarea class="form-control" id="communication" rows="3" placeholder="Conte-nos um pouco sobre sua empresa e como podemos lhe ajudar!" name="communication"></textarea>
             </div>
             <div class="text-right mt-3">
                 <button class="btn btn-light"> <input type="submit" value="Enviar" name="submit"/>  </button>
