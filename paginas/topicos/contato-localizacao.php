@@ -6,43 +6,7 @@
             Contato
             <hr>
         </h4>
-        <!-- Fomulário de Envio Contato -->
-        <form method="post" action="formulario_php.php" class="">
-            <div class="form-group">
-                <label for="contact_client"></label>
-                <select class="form-control" id="contact_client" name="contact_client">
-                    <option>Todos os serviços</option>
-                    <option>Desenvolvimento de Site</option>
-                    <option>E-mail Profissional</option>
-                    <option>Cartão de Visita Virtual</option>
-                    <option>Cardápio Virtual</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label for="fullname"></label>
-                <input type="text" class="form-control" id="fullname" placeholder="Nome Completo" name="fullname">
-            </div>
-            <div class="row">
-                <div class="form-group col">
-                    <label for="email"></label>
-                    <input type="email" class="form-control" id="email" placeholder="E-mail" name="email">
-                </div>
-                <div class="form-group col">
-                    <label for="phone"></label>
-                    <input type="text" class="form-control" id="phone" placeholder="(xx) x.xxxx-xxxx" name="phone">
-                </div>
-            </div>
-            <div class="form-group">
-                <label for="communication"></label>
-                <textarea class="form-control" id="communication" rows="3" placeholder="Conte-nos um pouco sobre sua empresa e como podemos lhe ajudar!" name="communication"></textarea>
-            </div>
-            <div class="text-right mt-3">
-                <button class="btn btn-light"> <input type="submit" value="Enviar" name="submit"/>  </button>
-            </div>
-
-        </form>
-        <!-- Fim Fomulário de Envio Contato -->
-
+       
     </div>
     <div class="col-md p-5 mt-5">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d987.9636949564411!2d-34.836090670849856!3d-7.910235071299581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab3e41689ca26d%3A0x1f6fa8664d23562a!2sAv.%20Costa%20Azul%2C%201208-1066%20-%20Pau%20Amarelo%2C%20Paulista%20-%20PE%2C%2053433-240!5e0!3m2!1spt-BR!2sbr!4v1643112718567!5m2!1spt-BR!2sbr" width="500" class="border border-5 rounded" height="300" allowfullscreen="" loading="lazy"></iframe>
