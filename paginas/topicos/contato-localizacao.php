@@ -11,9 +11,10 @@
             <hr>
         </h4>
         <!-- Fomulário de Envio Contato -->
-        <form method="post" action="formulario_php.php" class="mt-5">
+        <form method="post" action="formulario_php.php" class="">
             <div class="form-group">
-                <select for='contact_client' class="form-control" id="contact_client">
+                <label for="contact_client"></label>
+                <select class="form-control" id="contact_client">
                     <option>Todos os serviços</option>
                     <option>Desenvolvimento de Site</option>
                     <option>E-mail Profissional</option>
@@ -21,22 +22,26 @@
                     <option>Cardápio Virtual</option>
                 </select>
             </div>
-            <div class="form-group mt-3">
-                <input for="fullname" type="text" class="form-control" id="fullname" placeholder="Nome Completo">
+            <div class="form-group">
+                <label for="fullname"></label>
+                <input type="text" class="form-control" id="fullname" placeholder="Nome Completo">
             </div>
-            <div class="row mt-3">
+            <div class="row">
                 <div class="form-group col">
-                    <input for="email" type="email" class="form-control" id="email" placeholder="E-mail">
+                    <label for="email"></label>
+                    <input type="email" class="form-control" id="email" placeholder="E-mail">
                 </div>
                 <div class="form-group col">
-                    <input for="phone" type="text" class="form-control" id="phone" placeholder="(xx) x.xxxx-xxxx">
+                    <label for="phone"></label>
+                    <input type="text" class="form-control" id="phone" placeholder="(xx) x.xxxx-xxxx">
                 </div>
             </div>
-            <div class="form-group mt-3">
-                <textarea for="communication" class="form-control" id="communication" rows="3" placeholder="Conte-nos um pouco sobre sua empresa e como podemos lhe ajudar!"></textarea>
+            <div class="form-group">
+                <label for="communication"></label>
+                <textarea class="form-control" id="communication" rows="3" placeholder="Conte-nos um pouco sobre sua empresa e como podemos lhe ajudar!"></textarea>
             </div>
             <div class="text-right mt-3">
-                <button class="btn btn-light" type="submit"> Enviar </button>
+                <button class="btn btn-light"> <input type="submit" value="Enviar" name="submit"/>  </button>
             </div>
 
         </form>
