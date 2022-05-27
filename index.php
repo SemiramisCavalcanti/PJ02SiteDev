@@ -20,6 +20,20 @@ if ($pg) {
             include_once 'paginas/include/footer.php';
             break;
 
+        
+        case 'Formulario_php':
+            include_once 'paginas/include/header.php';
+            include_once 'paginas/include/botoes-laterais.php';
+            include_once 'paginas/fenixEcho.php';
+            include_once 'paginas/formulario_php.php';
+            include_once 'paginas/topicos/servicos.php';
+            include_once 'paginas/topicos/portifolio.php';
+            include_once 'paginas/topicos/sobre.php';
+            include_once 'paginas/topicos/contato-localizacao.php';
+            include_once 'paginas/include/footer.php';
+            break;
+
+        
             // FIM PAGINA INDEX DO SITE PRINCIPAL
 
         default:
